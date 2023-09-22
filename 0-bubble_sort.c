@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * wap - swaps two integer values using pointers
+ * swap - swaps two integer values using pointers
  * @big: bigger integer vlued to be swapped position
  * @small: smaller intger value to swap position with big
  */
